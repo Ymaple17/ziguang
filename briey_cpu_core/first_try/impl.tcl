@@ -112,4 +112,12 @@ dev_map
 pnr 
 report_timing 
 gen_bit_stream 
-add_design "H:/git_my/gowin-VexRiscV/briey_cpu_core/first_try/Briey.v"
+add_design "C:/Users/qiu/Desktop/ziguang/briey_cpu_core/first_try/Briey.v"
+
+set_arch -family Logos -device PGL50H -speedgrade -6 -package FBG484
+compile -top_module Briey
+synthesize -ads -selected_syn_tool_opt 2 
+dev_map 
+pnr 
+report_timing 
+gen_bit_stream 

@@ -1,1 +1,1 @@
-.rtl_screen -top_module {Briey} -include_path {<H:/PANGO_EDA/my_project/first_try>} -design_files {<H:/PANGO_EDA/my_project/Briey.v|work>}
+.rtl_screen -top_module {Briey} -include_path {<C:/Users/qiu/Desktop/ziguang/briey_cpu_core/first_try>} -design_files {<C:/Users/qiu/Desktop/ziguang/briey_cpu_core/Briey.v|work><C:/Users/qiu/Desktop/ziguang/briey_cpu_core/first_try/Briey.v|work>}

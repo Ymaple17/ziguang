@@ -1,7 +1,7 @@
 
 ----------------------------------------------------------------------------------------------------
 | Tool Version : Fabric Compiler (version 2022.1 <build 99559>)
-| Date         : Mon Feb 24 23:01:31 2025
+| Date         : Sun Mar  2 22:39:26 2025
 | Design       : Briey
 | Device       : PGL50H
 | Speed Grade  : -6
@@ -2870,18 +2870,18 @@ Path Class  : combinational timing path
 ====================================================================================================
 
 Inputs and Outputs :
-+---------------------------------------------------------------------------------+
-| Type       | File Name                                                         
-+---------------------------------------------------------------------------------+
-| Input      | H:/PANGO_EDA/my_project/first_try/place_route/Briey_pnr.adf       
-| Output     | H:/PANGO_EDA/my_project/first_try/report_timing/Briey_rtp.adf     
-|            | H:/PANGO_EDA/my_project/first_try/report_timing/Briey.rtr         
-|            | H:/PANGO_EDA/my_project/first_try/report_timing/rtr.db            
-+---------------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------------------+
+| Type       | File Name                                                                             
++-----------------------------------------------------------------------------------------------------+
+| Input      | C:/Users/qiu/Desktop/ziguang/briey_cpu_core/first_try/place_route/Briey_pnr.adf       
+| Output     | C:/Users/qiu/Desktop/ziguang/briey_cpu_core/first_try/report_timing/Briey_rtp.adf     
+|            | C:/Users/qiu/Desktop/ziguang/briey_cpu_core/first_try/report_timing/Briey.rtr         
+|            | C:/Users/qiu/Desktop/ziguang/briey_cpu_core/first_try/report_timing/rtr.db            
++-----------------------------------------------------------------------------------------------------+
 
 
 Flow Command: report_timing 
-Peak memory: 816 MB
-Total CPU  time to report_timing completion : 0h:0m:9s
-Process Total CPU  time to report_timing completion : 0h:0m:9s
-Total real time to report_timing completion : 0h:0m:10s
+Peak memory: 815 MB
+Total CPU  time to report_timing completion : 0h:0m:10s
+Process Total CPU  time to report_timing completion : 0h:0m:10s
+Total real time to report_timing completion : 0h:0m:12s

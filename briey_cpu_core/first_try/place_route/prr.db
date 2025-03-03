@@ -4711,25 +4711,25 @@
             <data>RAM(GB)</data>
         </column_headers>
         <row>
-            <data>0h:0m:54s</data>
-            <data>0h:0m:54s</data>
-            <data>0h:0m:57s</data>
-            <data>1,008</data>
+            <data>0h:1m:3s</data>
+            <data>0h:1m:3s</data>
+            <data>0h:1m:10s</data>
+            <data>1,009</data>
             <data>WINDOWS 10 x86_64</data>
-            <data>AMD Ryzen 7 6800H with Radeon Graphics</data>
-            <data>15</data>
+            <data>Intel(R) Core(TM) i7-14650HX</data>
+            <data>32</data>
         </row>
     </table>
     <table id="pnr_messages" title="Place &amp; Route Messages" column_number="1">
         <column_headers/>
         <row>
-            <data message="6">ConstraintEditor-2002: [H:/PANGO_EDA/my_project/first_try/device_map/led.pcf(line number: 13)] | Port io_coreInterrupta has been placed at location K18, whose type is share pin.</data>
+            <data message="6">ConstraintEditor-2002: [C:/Users/qiu/Desktop/ziguang/briey_cpu_core/first_try/device_map/led.pcf(line number: 13)] | Port io_coreInterrupta has been placed at location K18, whose type is share pin.</data>
         </row>
         <row>
-            <data message="6">ConstraintEditor-2002: [H:/PANGO_EDA/my_project/first_try/device_map/led.pcf(line number: 14)] | Port io_jtag_tck has been placed at location Y13, whose type is share pin.</data>
+            <data message="6">ConstraintEditor-2002: [C:/Users/qiu/Desktop/ziguang/briey_cpu_core/first_try/device_map/led.pcf(line number: 14)] | Port io_jtag_tck has been placed at location Y13, whose type is share pin.</data>
         </row>
         <row>
-            <data message="6">ConstraintEditor-2002: [H:/PANGO_EDA/my_project/first_try/device_map/led.pcf(line number: 19)] | Port io_uart_rxd has been placed at location AB13, whose type is share pin.</data>
+            <data message="6">ConstraintEditor-2002: [C:/Users/qiu/Desktop/ziguang/briey_cpu_core/first_try/device_map/led.pcf(line number: 19)] | Port io_uart_rxd has been placed at location AB13, whose type is share pin.</data>
         </row>
         <row>
             <data message="4">Column Clock Check open.</data>

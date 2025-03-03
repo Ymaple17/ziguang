@@ -142,7 +142,7 @@
             <data>YES</data>
         </row>
         <row>
-            <data>io_asyncReset</data>
+            <data>io_asyncReseta</data>
             <data>input</data>
             <data>L15</data>
             <data>BANK1</data>
@@ -182,7 +182,7 @@
             <data>YES</data>
         </row>
         <row>
-            <data>io_coreInterrupt</data>
+            <data>io_coreInterrupta</data>
             <data>input</data>
             <data>K18</data>
             <data>BANK1</data>
@@ -282,7 +282,7 @@
             <data>YES</data>
         </row>
         <row>
-            <data>io_timerExternal_clear</data>
+            <data>io_timerExternal_cleara</data>
             <data>input</data>
             <data>J17</data>
             <data>BANK1</data>
@@ -302,7 +302,7 @@
             <data>YES</data>
         </row>
         <row>
-            <data>io_timerExternal_tick</data>
+            <data>io_timerExternal_ticka</data>
             <data>input</data>
             <data>K16</data>
             <data>BANK1</data>
@@ -872,7 +872,7 @@
             <data>IOBS_LR_328_133</data>
             <data>BANK1</data>
             <data>DIFFI_B1_39P</data>
-            <data>io_asyncReset</data>
+            <data>io_asyncReseta</data>
             <data>input</data>
             <data>YES</data>
         </row>
@@ -1241,7 +1241,7 @@
             <data>IOBS_LR_328_132</data>
             <data>BANK1</data>
             <data>DIFFI_B1_39N</data>
-            <data>io_timerExternal_tick</data>
+            <data>io_timerExternal_ticka</data>
             <data>input</data>
             <data>YES</data>
         </row>
@@ -1412,7 +1412,7 @@
             <data>IOBS_LR_328_256</data>
             <data>BANK1</data>
             <data>DIFFI_B1_19N</data>
-            <data>io_coreInterrupt</data>
+            <data>io_coreInterrupta</data>
             <data>input</data>
             <data>YES</data>
         </row>
@@ -1475,7 +1475,7 @@
             <data>IOBS_LR_328_296</data>
             <data>BANK1</data>
             <data>DIFFI_B1_11N</data>
-            <data>io_timerExternal_clear</data>
+            <data>io_timerExternal_cleara</data>
             <data>input</data>
             <data>YES</data>
         </row>
@@ -3058,48 +3058,48 @@
         </row>
         <row>
             <data>Use of CLMA</data>
-            <data>639</data>
+            <data>649</data>
             <data>6450</data>
-            <data>10</data>
+            <data>11</data>
             <row>
                 <data>  FF</data>
-                <data>1582</data>
+                <data>1625</data>
                 <data>38700</data>
                 <data>5</data>
             </row>
             <row>
                 <data>  LUT</data>
-                <data>2010</data>
+                <data>2052</data>
                 <data>25800</data>
                 <data>8</data>
             </row>
             <row>
                 <data>  LUT-FF pairs</data>
-                <data>708</data>
+                <data>720</data>
                 <data>25800</data>
                 <data>3</data>
             </row>
         </row>
         <row>
             <data>Use of CLMS</data>
-            <data>373</data>
+            <data>371</data>
             <data>4250</data>
             <data>9</data>
             <row>
                 <data>  FF</data>
-                <data>943</data>
+                <data>900</data>
                 <data>25500</data>
                 <data>4</data>
             </row>
             <row>
                 <data>  LUT</data>
-                <data>1164</data>
+                <data>1122</data>
                 <data>17000</data>
                 <data>7</data>
             </row>
             <row>
                 <data>  LUT-FF pairs</data>
-                <data>384</data>
+                <data>376</data>
                 <data>17000</data>
                 <data>3</data>
             </row>
@@ -3142,7 +3142,7 @@
         </row>
         <row>
             <data>Use of HARD0N1</data>
-            <data>767</data>
+            <data>769</data>
             <data>6672</data>
             <data>12</data>
         </row>
@@ -3351,7 +3351,7 @@
         </column_headers>
         <row>
             <data>Briey</data>
-            <data>3169</data>
+            <data>3173</data>
             <data>2525</data>
             <data>16</data>
             <data>4</data>
@@ -3404,7 +3404,7 @@
             </row>
             <row>
                 <data>axi4ReadOnlyDecoder_1</data>
-                <data>62</data>
+                <data>60</data>
                 <data>15</data>
                 <data>0</data>
                 <data>0</data>
@@ -3485,7 +3485,7 @@
             </row>
             <row>
                 <data>axi_apbBridge_io_axi_arbiter</data>
-                <data>18</data>
+                <data>19</data>
                 <data>8</data>
                 <data>0</data>
                 <data>0</data>
@@ -4052,7 +4052,7 @@
             </row>
             <row>
                 <data>axi_timerCtrl</data>
-                <data>257</data>
+                <data>259</data>
                 <data>226</data>
                 <data>0</data>
                 <data>0</data>
@@ -4105,7 +4105,7 @@
                 </row>
                 <row>
                     <data>io_external_buffercc</data>
-                    <data>0</data>
+                    <data>2</data>
                     <data>4</data>
                     <data>0</data>
                     <data>0</data>
@@ -4538,7 +4538,7 @@
             </row>
             <row>
                 <data>io_asyncReset_buffercc</data>
-                <data>0</data>
+                <data>1</data>
                 <data>2</data>
                 <data>0</data>
                 <data>0</data>
@@ -4565,7 +4565,7 @@
             </row>
             <row>
                 <data>io_coreInterrupt_buffercc</data>
-                <data>0</data>
+                <data>1</data>
                 <data>2</data>
                 <data>0</data>
                 <data>0</data>
@@ -4711,10 +4711,10 @@
             <data>RAM(GB)</data>
         </column_headers>
         <row>
+            <data>0h:0m:54s</data>
+            <data>0h:0m:54s</data>
             <data>0h:0m:57s</data>
-            <data>0h:0m:57s</data>
-            <data>0h:1m:0s</data>
-            <data>1,012</data>
+            <data>1,008</data>
             <data>WINDOWS 10 x86_64</data>
             <data>AMD Ryzen 7 6800H with Radeon Graphics</data>
             <data>15</data>
@@ -4723,7 +4723,7 @@
     <table id="pnr_messages" title="Place &amp; Route Messages" column_number="1">
         <column_headers/>
         <row>
-            <data message="6">ConstraintEditor-2002: [H:/PANGO_EDA/my_project/first_try/device_map/led.pcf(line number: 13)] | Port io_coreInterrupt has been placed at location K18, whose type is share pin.</data>
+            <data message="6">ConstraintEditor-2002: [H:/PANGO_EDA/my_project/first_try/device_map/led.pcf(line number: 13)] | Port io_coreInterrupta has been placed at location K18, whose type is share pin.</data>
         </row>
         <row>
             <data message="6">ConstraintEditor-2002: [H:/PANGO_EDA/my_project/first_try/device_map/led.pcf(line number: 14)] | Port io_jtag_tck has been placed at location Y13, whose type is share pin.</data>

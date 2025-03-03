@@ -27126,13 +27126,13 @@
             <data>RAM(GB)</data>
         </column_headers>
         <row>
-            <data>0h:0m:9s</data>
-            <data>0h:0m:9s</data>
             <data>0h:0m:10s</data>
-            <data>816</data>
+            <data>0h:0m:10s</data>
+            <data>0h:0m:12s</data>
+            <data>815</data>
             <data>WINDOWS 10 x86_64</data>
-            <data>AMD Ryzen 7 6800H with Radeon Graphics</data>
-            <data>15</data>
+            <data>Intel(R) Core(TM) i7-14650HX</data>
+            <data>32</data>
         </row>
     </table>
     <table id="report_timing_messages" title="Timing Messages" column_number="1">

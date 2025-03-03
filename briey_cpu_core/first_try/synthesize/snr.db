@@ -15351,13 +15351,13 @@ Total I/O ports = 17 of 296 (5.74%)
             <data>RAM(GB)</data>
         </column_headers>
         <row>
-            <data>0h:0m:11s</data>
-            <data>0h:0m:11s</data>
-            <data>0h:0m:13s</data>
-            <data>263</data>
+            <data>0h:0m:15s</data>
+            <data>0h:0m:15s</data>
+            <data>0h:0m:18s</data>
+            <data>261</data>
             <data>WINDOWS 10 x86_64</data>
-            <data>AMD Ryzen 7 6800H with Radeon Graphics</data>
-            <data>15</data>
+            <data>Intel(R) Core(TM) i7-14650HX</data>
+            <data>32</data>
         </row>
     </table>
     <table id="synthesize_messages" title="Synthesize Messages" column_number="1">
@@ -15408,7 +15408,7 @@ Total I/O ports = 17 of 296 (5.74%)
             <data message="4">Encoding type of FSM 'phase_fsm[1:0]' is: onehot.</data>
         </row>
         <row>
-            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number:10261)] The user initial state for regs on FSM phase_fsm[1:0] is 00 and be encoded 001.</data>
+            <data message="4">[C:/Users/qiu/Desktop/ziguang/briey_cpu_core/Briey.v(line number:10261)] The user initial state for regs on FSM phase_fsm[1:0] is 00 and be encoded 001.</data>
         </row>
         <row>
             <data message="4">Encoding table of FSM 'phase_fsm[1:0]':</data>
@@ -15432,7 +15432,7 @@ Total I/O ports = 17 of 296 (5.74%)
             <data message="4">Encoding type of FSM 'CsrPlugin_interrupt_code_fsm[3:0]' is: onehot.</data>
         </row>
         <row>
-            <data message="5">[H:/PANGO_EDA/my_project/Briey.v(line number:8726)] The forced initial state for regs on FSM CsrPlugin_interrupt_code_fsm[3:0] is 0011 and be encoded 001.</data>
+            <data message="5">[C:/Users/qiu/Desktop/ziguang/briey_cpu_core/Briey.v(line number:8726)] The forced initial state for regs on FSM CsrPlugin_interrupt_code_fsm[3:0] is 0011 and be encoded 001.</data>
         </row>
         <row>
             <data message="4">Encoding table of FSM 'CsrPlugin_interrupt_code_fsm[3:0]':</data>
@@ -15456,7 +15456,7 @@ Total I/O ports = 17 of 296 (5.74%)
             <data message="4">Encoding type of FSM 'IBusCachedPlugin_injector_port_state_fsm[2:0]' is: onehot.</data>
         </row>
         <row>
-            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number:8458)] The user initial state for regs on FSM IBusCachedPlugin_injector_port_state_fsm[2:0] is 000 and be encoded 00001.</data>
+            <data message="4">[C:/Users/qiu/Desktop/ziguang/briey_cpu_core/Briey.v(line number:8458)] The user initial state for regs on FSM IBusCachedPlugin_injector_port_state_fsm[2:0] is 000 and be encoded 00001.</data>
         </row>
         <row>
             <data message="4">Encoding table of FSM 'IBusCachedPlugin_injector_port_state_fsm[2:0]':</data>
@@ -15486,7 +15486,7 @@ Total I/O ports = 17 of 296 (5.74%)
             <data message="4">Encoding type of FSM 'frontend_state_fsm[1:0]' is: onehot.</data>
         </row>
         <row>
-            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number:14076)] The user initial state for regs on FSM frontend_state_fsm[1:0] is 00 and be encoded 0001.</data>
+            <data message="4">[C:/Users/qiu/Desktop/ziguang/briey_cpu_core/Briey.v(line number:14076)] The user initial state for regs on FSM frontend_state_fsm[1:0] is 00 and be encoded 0001.</data>
         </row>
         <row>
             <data message="4">Encoding table of FSM 'frontend_state_fsm[1:0]':</data>
@@ -15513,7 +15513,7 @@ Total I/O ports = 17 of 296 (5.74%)
             <data message="4">Encoding type of FSM 'stateMachine_state_fsm[2:0]' is: onehot.</data>
         </row>
         <row>
-            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number:14817)] The user initial state for regs on FSM stateMachine_state_fsm[2:0] is 000 and be encoded 00001.</data>
+            <data message="4">[C:/Users/qiu/Desktop/ziguang/briey_cpu_core/Briey.v(line number:14817)] The user initial state for regs on FSM stateMachine_state_fsm[2:0] is 000 and be encoded 00001.</data>
         </row>
         <row>
             <data message="4">Encoding table of FSM 'stateMachine_state_fsm[2:0]':</data>
@@ -15543,7 +15543,7 @@ Total I/O ports = 17 of 296 (5.74%)
             <data message="4">Encoding type of FSM 'stateMachine_state_fsm[2:0]' is: onehot.</data>
         </row>
         <row>
-            <data message="4">[H:/PANGO_EDA/my_project/Briey.v(line number:15105)] The user initial state for regs on FSM stateMachine_state_fsm[2:0] is 000 and be encoded 00001.</data>
+            <data message="4">[C:/Users/qiu/Desktop/ziguang/briey_cpu_core/Briey.v(line number:15105)] The user initial state for regs on FSM stateMachine_state_fsm[2:0] is 000 and be encoded 00001.</data>
         </row>
         <row>
             <data message="4">Encoding table of FSM 'stateMachine_state_fsm[2:0]':</data>
@@ -15573,7 +15573,7 @@ Total I/O ports = 17 of 296 (5.74%)
             <data message="4">Encoding type of FSM 'jtag_tap_fsm_state_fsm[3:0]' is: onehot.</data>
         </row>
         <row>
-            <data message="5">[H:/PANGO_EDA/my_project/Briey.v(line number:4190)] The forced initial state for regs on FSM jtag_tap_fsm_state_fsm[3:0] is 0000 and be encoded 000000000000001.</data>
+            <data message="5">[C:/Users/qiu/Desktop/ziguang/briey_cpu_core/Briey.v(line number:4190)] The forced initial state for regs on FSM jtag_tap_fsm_state_fsm[3:0] is 0000 and be encoded 000000000000001.</data>
         </row>
         <row>
             <data message="4">Encoding table of FSM 'jtag_tap_fsm_state_fsm[3:0]':</data>
